@@ -1,11 +1,15 @@
 
 
 ## Introduction
-This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
+
+This assignment is to examine how household energy usage varies over a 2-day period from 2007-02-01 and 2007-02-02 using “Individual household electric power consumption Data Set” from the UC Irvine Machine Learning Repository.
+
+## Data Set descriptions
+
 * Dataset: Electric power consumption [20Mb]
 * Description: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
 
-## The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
+The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
 1. Date: Date in format dd/mm/yyyy 
 2. Time: time in format hh:mm:ss 
 3. Global_active_power: household global minute-averaged active power (in kilowatt) 
