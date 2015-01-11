@@ -27,6 +27,7 @@ To save time all steps are only performed based on necessity, if new data are re
  
 ## Making Plots
 Separate R code files (plot1.R, plot2.R, etc.)  construct the corresponding plot, i.e. code in plot1.R constructs the plot1.png plot.
+Each R code file run GetData.R to download and process data set to get data to be plotted.
 
 
 
